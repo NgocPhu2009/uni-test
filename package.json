@@ -1,0 +1,22 @@
+{
+  "name": "unit-test-stack-javascript",
+  "version": "1.0.0",
+  "description": "Implementation of a common stack with push, pop, peek, length, search, isEmpty and print functions. Then unit test will be applied for each function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Le Ngoc Phu",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "@types/jest": "^25.2.3"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
